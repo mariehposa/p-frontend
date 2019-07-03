@@ -1,0 +1,14 @@
+body{
+	background: linear-gradient(to right, rgb(79, 191, 104,1), rgb(62, 107, 193,1))0% 50%;
+	padding: 100px;
+}
+
+.font{
+	font-family: "lucida calligraphy"
+}
+
+@media (max-width: 575.98px) {
+body{
+	padding: 20px;
+}
+}
